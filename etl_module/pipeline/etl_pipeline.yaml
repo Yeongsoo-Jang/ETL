@@ -1,0 +1,10 @@
+log_folder_path: "./etl_module/logs"
+cities:
+  - "Seoul"
+  - "Busan"
+  - "sejong"
+  - "daegu"
+  - "incheon"
+  - "daejeon"
+  - "ulsan"
+run_minutes: 30
